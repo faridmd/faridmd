@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 &nbsp;Hey there! I'm Farid
 
-<!--
-**faridmd/faridmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨🏻‍💻 &nbsp;About Me
 
-Here are some ideas to get you started:
+🎓 &nbsp;I'm currently studying Mechatronics Engineering at the Yogyakarta State University.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Robotics, and Web Development.\
+✉️ &nbsp;You can shoot me an email at farid.amanullah15@gmail.com! I'll try to respond as soon as I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/faridmd">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faridmd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faridmd&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
